@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi , I'm Nitish Chavan</h1>
-<h3 align="center">A passionate Full Stack developer</h3>
+<h3 align="center">A passionate Web developer</h3>
 <!-- <img src="https://miro.medium.com/v2/da:true/resize:fit:750/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="Background" width="100%" /> -->
 
 # 💫 About Me:
