@@ -4,7 +4,7 @@
 <!-- <img src="https://miro.medium.com/v2/da:true/resize:fit:750/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="Background" width="100%" /> -->
 
 # 💫 About Me:
-🔭 I am an Electronic and Telecommunication Engineer with a strong interest in software development, web development, JAVA developer..<br>🤝 I have built projects using HTML, CSS, and JavaScript, and I enjoy creating solutions that make an impact.<br>⚡ I’m always eager to expand my skills and am open to new opportunities to work on innovative projects.
+🔭 I am an Electronic and Telecommunication Engineer with a strong interest in software development, web development, JAVA developer..<br>🤝 I have built projects using HTML, CSS, and JavaScript, ReactJs, MERN STACK and I enjoy creating solutions that make an impact.<br>⚡ I’m always eager to expand my skills and am open to new opportunities to work on innovative projects.
 
 
 ## 🌐 Socials:
