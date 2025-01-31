@@ -15,7 +15,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nitish619&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nitish619&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nitish619&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nitish619&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitish619&label=Profile%20views&color=0e75b6&style=flat" alt="nitish619" /> </p>
