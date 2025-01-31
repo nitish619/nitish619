@@ -20,5 +20,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=nitish619&icon=4&color=6)](https://visitcount.itsvg.in)
 ![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/nitish619&count_bg=%23000000&title_bg=%23FFFFFF00&icon=&icon_color=%23FFFFFF00&title=Views&edge_flat=true)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitish619&label=Profile%20views&color=0e75b6&style=flat" alt="nitish619" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
