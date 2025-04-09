@@ -4,8 +4,9 @@
 <!-- <img src="https://miro.medium.com/v2/da:true/resize:fit:750/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="Background" width="100%" /> -->
 
 # 💫 About Me:
-🔭 I am an Electronic and Telecommunication Engineer with a strong interest in software development, web development, JAVA developer..<br>🤝 I have built projects using JavaScript, ReactJs, MERN STACK, Tailwind CSS and I enjoy creating solutions that make an impact.<br>⚡ I’m always eager to expand my skills and am open to new opportunities to work on innovative projects.
-
+🔭 A passionate Web Developer with a B.E. in Electronics and Telecommunications (EXTC), I specialize in building responsive, user-focused websites using modern technologies like React.js, Next.js, MERN Stack, and WordPress.<br>
+🤝 I have developed real-world projects, including an e-commerce site and a dynamic blog platform, showcasing my ability to merge front-end design with back-end functionality.<br>
+⚡ I am experienced in optimizing SEO, ensuring cross-device compatibility, and using tools such as GraphQL, Tailwind CSS, and Postman for efficient development. I am driven by a strong curiosity to learn and deliver clean, maintainable code that solves real problems.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([Nitish chavan](https://www.linkedin.com/in/nitish619/)) 
