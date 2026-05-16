@@ -3,10 +3,55 @@
 <h3 align="center">Next.js Developer | Technical SEO and Performance | CodeQuint Agency</h3>
 <!-- <img src="https://miro.medium.com/v2/da:true/resize:fit:750/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="Background" width="100%" /> -->
 
-# 💫 About Me:
-🔭 A passionate Web Developer with a B.E. in Electronics and Telecommunications (EXTC), I specialize in building responsive, user-focused websites using modern technologies like React.js, Next.js, MERN Stack, and WordPress.<br>
-🤝 I have developed real-world projects, including an e-commerce site and a dynamic blog platform, showcasing my ability to merge front-end design with back-end functionality.<br>
-⚡ I am experienced in optimizing SEO, ensuring cross-device compatibility, and using tools such as GraphQL, Tailwind CSS, and Postman for efficient development. I am driven by a strong curiosity to learn and deliver clean, maintainable code that solves real problems.
+I build fast, SEO-friendly Next.js websites that rank, convert, and scale.
+Part of **CodeQuint**, a specialized agency focused on SEO-first web development.
+## What I Focus On
+
+- **Next.js Development** — Production-grade websites with SSR, SSG, and ISR
+- **Headless CMS** — WordPress and Strapi as headless CMS via GraphQL
+- **Technical SEO** — Schema markup, sitemaps, Core Web Vitals, crawl optimization
+- **Performance Optimization** — Lighthouse 90+ scores, sub-1.5s load times
+- **Website Migrations** — WordPress to Next.js with full SEO equity preserved
+- **CDN and Deployment** — Vercel, AWS, Cloudflare
+
+---
+
+## Real-World Results
+
+- Healthcare and rehabilitation websites ranking on first page of Google for competitive keywords across multiple cities in India
+- PageSpeed Performance scores up to 100 on visually rich restaurant and local business sites
+- SEO score 100 across multiple production websites
+- Multi-location enterprise sites with 17+ locations on structured headless architecture
+
+---
+
+## Tech Stack
+
+**Frontend:** Next.js, React, TypeScript, JavaScript, Tailwind CSS  
+**Backend:** Node.js, Express.js, MongoDB, GraphQL  
+**CMS:** WordPress (Headless), Strapi  
+**SEO Tools:** Google Search Console, Schema.org, Screaming Frog  
+**Deployment:** Vercel, AWS, Cloudflare, CDN
+
+---
+
+## Live Projects
+
+| Project | Stack | Live |
+|---|---|---|
+| Jagruti Rehabilitation Centre | Next.js + Headless WordPress | [jagrutirehab.org](https://www.jagrutirehab.org) |
+| Olive Elder Care | Next.js + Headless WordPress | [oliveeldercare.com](https://www.oliveeldercare.com) |
+| Aroha Rehab | WordPress | [aroharehab.com](https://www.aroharehab.com) |
+| Navoday Mental Health Centre | Next.js + Headless WordPress | [navodaycentre.com](https://www.navodaycentre.com) |
+| CodeQuint Agency | Next.js + Tailwind CSS | [codequint.com](https://www.codequint.com) |
+| Salt & Smash Restaurant | Next.js + Tailwind CSS | [salt-and-smash.vercel.app](https://salt-and-smash.vercel.app) |
+| EverydayQNA Platform | Next.js + MongoDB + Stripe | [every-day-qna-platform.vercel.app](https://every-day-qna-platform.vercel.app) |
+
+## Connect
+
+- **Upwork:** [CodeQuint on Upwork](#)
+- **LinkedIn:** [linkedin.com/in/nitish619](https://www.linkedin.com/in/nitish619/)
+- **Agency:** [codequint.com](https://www.codequint.com)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([Nitish chavan](https://www.linkedin.com/in/nitish619/)) 
