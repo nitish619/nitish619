@@ -47,6 +47,8 @@ Part of **CodeQuint**, a specialized agency focused on SEO-first web development
 | Salt & Smash Restaurant | Next.js + Tailwind CSS | [salt-and-smash.vercel.app](https://salt-and-smash.vercel.app) |
 | EverydayQNA Platform | Next.js + MongoDB + Stripe | [every-day-qna-platform.vercel.app](https://every-day-qna-platform.vercel.app) |
 
+---
+
 ## Connect
 
 - **Upwork:** [Upwork](https://www.upwork.com/freelancers/~01a9091448d144c370?mp_source=share)
